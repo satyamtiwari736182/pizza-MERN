@@ -1,0 +1,11 @@
+[+] Register a user
+[+] Login a user
+[+] who am I (to gets user info)
+[+] Refresh Token
+[+] Logout the user
+[+] Add new Product
+[+] Delete a Product
+[+] Update a Product
+[+] Get all Product
+[+] Get single Product
+[+] Get cart-products
